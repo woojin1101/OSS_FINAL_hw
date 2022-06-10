@@ -17,20 +17,20 @@ __Open-source software:__ <img src="https://img.shields.io/badge/Apache-D22128?s
 ------------------------------------------
   install php, phpmyadmin, mysql.
   
-  move all contents into /var/www/html/. 
+  move all contents into  /var/www/html/. 
   
-  *contact.sql <- you must modify contact data to use*
+    *contact.sql <- you must modify contact data to use
   
-  *connection.php <- you must modify conditions to use*
+    *connection.php <- you must modify conditions to use
   
-  *index.php <- you must modify mail information(account,password) to use*
+    *index.php <- you must modify mail information(account,password) to use
   
   import sql database.
   
   go to 
-  '''
-  localhost/your_path/index.php
-  '''
+  
+    localhost/your_path/index.php
+  
 
 ##Need more help?
 ------------------------------------------
