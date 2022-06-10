@@ -9,9 +9,13 @@ It allows you to select from all contacts stored in the lists end send different
 
 ##Contribution 
 ------------------------------------------
-__Environment:__  raspberrypi 
+__Environment:__  
 
-__Open-source software:__ <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white"> 
+raspberrypi 
+
+__Open-source software:__ 
+
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white"> <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpMyAdmin&logoColor=white"> 
 __PHPMailer__ link = "https://github.com/PHPMailer/PHPMailer"
   
 ##How to use
