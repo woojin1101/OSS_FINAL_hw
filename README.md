@@ -29,7 +29,7 @@ __Open-source software:__ <img src="https://img.shields.io/badge/Apache-D22128?s
   
   go to 
   
-    localhost/your_path/index.php
+    http://localhost/your_path/index.php
   
 
 ##Need more help?
