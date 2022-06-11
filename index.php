@@ -88,6 +88,7 @@ write content : <input type="text" name="mail_cnt[]" ><br>
 		    {
 				echo 'mail error: '.$mail->ErrorInfo;
 		    }	
+			$mail->ClearAllRecipients();
 		}
     }
 
