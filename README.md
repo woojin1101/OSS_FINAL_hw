@@ -1,6 +1,7 @@
 ## OSS_FINAL_hw 21500525 WooJin Lee 
 ------------------------------------------
 __Project title:__ Batch Email sender
+
 __Video link__(how to use & more information): 
 
 ## What does this project do?
