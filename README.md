@@ -2,7 +2,7 @@
 ------------------------------------------
 __Project title:__ Batch Email sender
 
-__Video link__(how to use & more information): 
+__Video link__(how to use & more information): https://youtu.be/7d6Ibo_HfNw
 
 ## What does this project do?
 ------------------------------------------
